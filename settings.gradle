@@ -1,0 +1,2 @@
+rootProject.name='S2 Currency Converter'
+include ':app'
