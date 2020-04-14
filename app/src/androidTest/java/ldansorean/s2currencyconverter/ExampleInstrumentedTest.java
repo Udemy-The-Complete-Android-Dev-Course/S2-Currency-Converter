@@ -1,4 +1,4 @@
-package com.example.s2currencyconverter;
+package ldansorean.s2currencyconverter;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.s2currencyconverter", appContext.getPackageName());
+        assertEquals("ldansorean.s2currencyconverter", appContext.getPackageName());
     }
 }

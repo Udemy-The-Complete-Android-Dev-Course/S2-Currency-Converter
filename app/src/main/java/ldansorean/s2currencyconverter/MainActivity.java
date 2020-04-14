@@ -1,4 +1,4 @@
-package com.example.s2currencyconverter;
+package ldansorean.s2currencyconverter;
 
 import androidx.appcompat.app.AppCompatActivity;
 
